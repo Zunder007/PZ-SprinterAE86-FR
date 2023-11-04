@@ -1,0 +1,4 @@
+IG_UI_FR = {
+	IGUI_VehicleNameSprinterAE86 = "Toyota Sprinter Trueno AE86"
+	IGUI_VehicleNameSprinterAE86_InitialD = "Toyota Sprinter Trueno AE86 Delivery"
+}
